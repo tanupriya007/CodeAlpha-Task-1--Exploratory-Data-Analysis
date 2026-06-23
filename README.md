@@ -1,6 +1,6 @@
-#Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 
-##Project Overview
+## Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on a customer review dataset to identify patterns, trends, and insights using Python.
 
