@@ -30,8 +30,8 @@ This project performs Exploratory Data Analysis (EDA) on a customer review datas
 - EDA.ipynb – Complete EDA notebook containg the analysis and visualizations
 - Dataset not included due to GitHub upload size restrictions
 
-*Author*
+*Author* -
 Tanu Priya
 
-*Internship*
+*Internship* -
 Submitted as part of the CodeAlpha Data Analytics Internship.
